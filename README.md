@@ -1,2 +1,2 @@
-# Personal-Website
-Personal Website for Will Boyles
+# Will Boyles
+
